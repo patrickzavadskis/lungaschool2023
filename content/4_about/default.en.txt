@@ -1,0 +1,45 @@
+Title: About
+
+----
+
+Sidebartext:
+
+Organization and documentation
+Curriculum
+Viðurkenning
+Samþykkt LungA skólans
+
+Financial statements
+2022
+2021
+2020
+2019
+
+----
+
+Subtitle: 
+
+----
+
+Text:
+
+The LungA School is an independent, artist-led institution and situation where we experiment with artistic and land-based practices as a way of doing, thinking and being in order to cultivate, disturb, distort and transform our notions of aesthetics, learning, perception and good judgement. 
+
+As the name implies it considers itself a school, but if we imagine that we did not only call it a school, but something else such as 'a work of art', or 'a commune' these terms seem to be able to fit as well, and not only do they fit, but they seem to be able to describe some aspects of this place which we consider to be essential. Apparently, these terms and concept which we recognize through a range of more or less clearly defined conditions, have, in the case of this particular school, several overlapping conditions so that it is not enough to simply talk about this as a school if we wish to describe it in a way that might convey, more fully, the experience of being here. This means that we have been developing several voices that stand on all sides of the school and speak to the aspects that it sees. And together they form a fuller picture. 
+
+We are a small school because that allows us to focus on each student that decides to attend. We encourage a person's uniqueness and support students on their path towards a stronger sense of self, along with developing an understanding of the world we live in and their ability to act in it. We do this through the language and practice of art.
+
+We strive to give the students an experimental educational experience as a foundation for further artistic practices and studies, work life and life in general.
+
+As LungA School is an international school, all parts of the program will be in English.
+
+<span class="technical-details-link">Seyðisfjörður</span>
+The school is based in Seyðisfjörður, a small village nestled between mountains at the threshold of a fjord in East Iceland. A place where everything is possible. With bright summers, dark winters, beautiful nature and even more importantly, distance from the rest of the world. This gives an opportunity for deeper focus, inspiration and thorough experimentation. 
+
+Seyðisfjörður has for many years been a hub for artists and other creatives, and it is the setting for many cultural initiatives all year round.
+
+The LungA School facilities are placed all around the town and the students will create open events and exhibitions during the program and take part in the community in many ways.
+
+----
+
+Uuid: FbJNcUU49kNXwnOg

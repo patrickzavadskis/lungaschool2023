@@ -1,0 +1,34 @@
+title: LungA School
+
+sections:
+  theProgrammes:
+    type: pages
+    headline: The Programmes
+    template: 
+      - art
+      - land
+      - general-information
+
+  theSchool:
+    type: pages
+    headline: The School
+    template: 
+      - about
+      - manifesto
+      - contact
+      - collaborators
+
+  links:
+    type: fields
+    headline: Links
+    fields:
+      linkList:
+        label: Links
+        type: structure
+        fields:
+          url:
+            label: URL
+            type: url
+          text:
+            label: Text
+            type: text

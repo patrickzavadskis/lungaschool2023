@@ -1,0 +1,25 @@
+title: Default Page
+
+columns:
+  # Sidebar column
+  sidebar:
+    width: 1/3
+    sections:
+      details:
+        type: fields
+        fields:
+          sidebarText:
+            type: textarea
+            label: Sidebar Text
+
+  # Main content column
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          subtitle:
+            type: textarea
+          text:
+            type: textarea

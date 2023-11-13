@@ -1,0 +1,18 @@
+Title: LungA School
+
+----
+
+Linklist:
+
+- 
+  url: https://www.instagram.com/lungaschool/
+  text: Instagram
+- 
+  url: https://www.facebook.com/LungA.School/
+  text: Facebook
+- 
+  url: https://www.lunga.is/
+  text: LungA Festival
+- 
+  url: https://seydisfjordurcommunityradio.net/
+  text: Seyðisfjörður Community Radio

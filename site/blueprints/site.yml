@@ -1,0 +1,21 @@
+title: LungA School
+
+sections:
+  pages:
+    type: pages
+    headline: Pages
+
+  links:
+    type: fields
+    headline: Links
+    fields:
+      linkList:
+        label: Links
+        type: structure
+        fields:
+          url:
+            label: URL
+            type: url
+          text:
+            label: Text
+            type: text

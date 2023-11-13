@@ -1,0 +1,36 @@
+Title: Collaborators
+
+----
+
+Sidebartext: 
+
+----
+
+Subtitle: 
+
+----
+
+Text:
+
+The LungA School is supported by the Ministry of Education and the municipality of Múlaþing.
+
+The LungA School also has an ongoing collaboration with:
+
+Skaftell Bistro,
+Skaftfell Art Center,
+Austurland Food Coop, 
+Hotel Aldan, 
+Hafaldan Hostel, 
+Menningarfélagið HEIMA, 
+Airconditions, 
+LungA Festival, 
+Seyðisfjörður Community Radio, 
+Sláturhúsið, 
+Smyril-line, 
+Höldur car rental, 
+Kling & Bang and
+Herðubreið Community and Culture Center.
+
+----
+
+Uuid: nb34l4V6u6hR45z7
