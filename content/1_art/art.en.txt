@@ -1,0 +1,32 @@
+Title: ART
+
+----
+
+Sidebartext: [{"content":{"text":"<p>We are currently closed for applications for the Art Spring Programme 2024.</p>"},"id":"2210049e-08de-4746-b361-9814cf4fc64f","isHidden":false,"type":"text"},{"content":{"text":"<p>Applications will open for the Art Fall Programme 2024 next spring.</p>"},"id":"e405893b-8275-40c5-b85a-9060c1fca5f1","isHidden":false,"type":"text"},{"content":{"text":"<p>Read the manifesto and curriculum:</p>"},"id":"7310d6ab-d31e-44f9-ae39-d006d783c88a","isHidden":false,"type":"text"},{"content":{"custombuttonlink":"https://www.manifesto-and-curriculum.com/","custombuttonname":"Open"},"id":"abee166f-5b38-4e92-9dc0-dd2ba15450ee","isHidden":false,"type":"custombutton"}]
+
+----
+
+Subheader: A composition for untrained voices
+
+----
+
+Arttext: [{"content":{"text":"<p>The twelve-week Art programme (formerly '84') occurs twice a year, in the fall and the spring.</p>"},"id":"b0afde92-7d95-4130-821c-66491b854664","isHidden":false,"type":"text"},{"content":{"text":"<p>The program consists of a mix of workshop weeks hosted by guest artists and weeks focused on developing both individual and collective praxis through experimentation, conversation and reflection. The program is also an ongoing exploration of what an arts program can be, and all participants are part of shaping, molding, disturbing and maintaining this conversation – and the program itself.</p>"},"id":"09b6a133-041f-44fc-b6ae-c8ff492d47f6","isHidden":false,"type":"text"},{"content":{"text":"<p>Participants have access to various studio spaces and facilities to support their investigation and practice. Participants stay and live at the school for the duration of the program.</p>"},"id":"cd905c37-8be8-47f8-80b3-5302948a1a09","isHidden":false,"type":"text"},{"content":{"text":"<p>Whether you have a background in art or wish to pursue further education within this field is not important. It is important that you hold an interest in artistic practice, have the desire to learn and explore, and be open to surprises and challenges.</p>"},"id":"abcb7c1f-01de-4b64-93c6-0d15fd874b0f","isHidden":false,"type":"text"},{"content":{"text":"<p>We would like you to show this interest in your application by sending a portfolio or describing your ideas of a practice within the questions asked.</p>"},"id":"76db790d-d6fe-4dc7-9cd0-3cbb6c0babf3","isHidden":false,"type":"text"}]
+
+----
+
+Art-text:
+
+- 
+  content:
+    text: "<p>The twelve-week Art programme (formerly '84') occurs twice a year, in the fall and the spring. <br>The program consists of a mix of workshop weeks hosted by guest artists and weeks focused on developing both individual and collective praxis through experimentation, conversation and reflection. The program is also an ongoing exploration of what an arts program can be, and all participants are part of shaping, molding, disturbing and maintaining this conversation – and the program itself.<br>Participants have access to various studio spaces and facilities to support their investigation and practice. Participants stay and live at the school for the duration of the program.<br>Whether you have a background in art or wish to pursue further education within this field is not important. It is important that you hold an interest in artistic practice, have the desire to learn and explore, and be open to surprises and challenges. <br>We would like you to show this interest in your application by sending a portfolio or describing your ideas of a practice within the questions asked.</p>"
+  id: 37bc1bc7-184b-40ac-85c1-52db1103f287
+  isHidden: false
+  type: text
+
+----
+
+Headline: ART
+
+----
+
+Uuid: 7JnVyFV0Zcwk1JGV

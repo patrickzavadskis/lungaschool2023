@@ -3,7 +3,7 @@
         <?php foreach ($pagesArray as $slug): 
             $page = page($slug);
             if ($page): ?>
-                <li class="navigation-item">
+                <li class="navigation-item secondary-text-link">
                     <a href="<?= $page->url() ?>"><?= $page->title()->html() ?></a>
                 </li>
             <?php endif;

@@ -1,0 +1,11 @@
+title: Collaborators
+
+columns: 
+  main:
+    sections:
+      content:
+        type: fields
+        fields:
+          text:
+            type: blocks
+            label: Content

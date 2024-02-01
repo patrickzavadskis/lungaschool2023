@@ -1,0 +1,17 @@
+Title: General information
+
+----
+
+Sidebartext: 
+
+----
+
+Subheader: 
+
+----
+
+Generalinformationtext: [{"content":{"text":"<p>The LungA School offers a 12-week ART Programme taking place in the Spring and in the Fall each year as well as a 12-week LAND Programme that takes place once a year. The school exists in Seyðisfjörður, East Iceland, where you stay and live at the school for the duration of the programme.</p>"},"id":"95533eda-98ca-4a3e-93bd-7a42dd2cc68a","isHidden":false,"type":"text"},{"content":{"text":"<p>Each round of applications is open for three months. After the deadline, the Program Directors will take one month to read, contemplate and discuss the applications and group constellations they see as diverse, complimenting and intriguing. The Program Directors will contact you about your application within four weeks of the deadline.</p>"},"id":"6acb14aa-457b-4fd9-be91-2a10a9f0293d","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: rdPKM2JP0J6g4int

@@ -1,0 +1,9 @@
+title: Custom Button
+fields:
+  custombuttonlink:
+    label: Button Link
+    type: text
+    help: The link has to start with "https://"
+  custombuttonname:
+    label: Button name
+    type: text

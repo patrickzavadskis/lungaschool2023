@@ -1,0 +1,26 @@
+Title: LAND
+
+----
+
+Sidebartext: [{"content":{"text":"<p>LAND Spring Programme 2024</p>"},"id":"978bba74-8327-4475-8688-3d9afd7aa91b","isHidden":false,"type":"text"},{"content":{"text":"<p>Applications open:<br>11. October 2023</p>"},"id":"cd91c6ae-6180-4c30-8ec0-df92fce6c93d","isHidden":false,"type":"text"},{"content":{"text":"<p>Applications close:<br>15. November 2023</p>"},"id":"ae785f12-9346-4b05-a7fc-6db6a04c168e","isHidden":false,"type":"text"},{"content":{"text":"<p>Duration of program:<br>19. February–10. May 2024</p>"},"id":"5ad6e174-117a-4222-99cb-96296bc0847b","isHidden":false,"type":"text"},{"content":{"text":"<p>Where:<br>Seyðisfjörður, Iceland</p>"},"id":"7b0df931-6619-4bc1-be69-82fbaa2a070c","isHidden":false,"type":"text"},{"content":{"text":"<p>Cost:<br>600.000 ISK</p>"},"id":"2112fd13-d535-44e9-9ee0-da9299da8060","isHidden":false,"type":"text"},{"content":{"custombuttonlink":"https://www.apply-here.com","custombuttonname":"Apply here"},"id":"7f7f2691-c450-4877-a5f3-cae76ce32d41","isHidden":false,"type":"custombutton"}]
+
+----
+
+Subheader:
+
+65°15.604N 14°0.493W
+
+
+Traveling and traversing, on and off the path.
+
+----
+
+Landtext: [{"content":{"text":"<p>A new addition to the composition that is the LungA school, now a twelve-week programme named LAND dictated by the seasons as an act of schooling.</p>"},"id":"c20a2e9d-852c-417f-af10-97d8627920a8","isHidden":false,"type":"text"},{"content":{"text":"<p>The programme consists of workshop weeks hosted by guest speakers, thinkers, crafters and doers. As well as circular movement through the land and the land's movement. The LAND programme is a space created to connect deeper to the land, to wherever you and we are. It is an attempt to create a sense of belonging to nature – to the land – to ourselves.</p>"},"id":"6757f5b6-dc59-4dd4-b981-764800a6bbbf","isHidden":false,"type":"text"},{"content":{"text":"<p>Participants stay centred around Seyðisfjörður for the duration of the programme.</p>"},"id":"3ed37873-1dfa-410d-ae15-3290d2d1cff5","isHidden":false,"type":"text"},{"content":{"text":"<p>We encourage all nature enthusiasts belonging to the Anthropocene to apply. Whether you have a background or prior studies in ecology focused areas or simply take inspiration from the natural environment in your work or everyday life, we would love to see your applications.</p>"},"id":"cad1e8cf-da4b-4f2d-b586-6c48a19b407d","isHidden":false,"type":"text"},{"content":{"text":"<p>In your applications we would like to see your interest in the land, and us as humans in the land. That you are open to be challenged, physically and mentally, and ready for surprises together with us as we explore and try shortening the gap between man as animal and animal as man.</p>"},"id":"f7dcdc7f-98de-4862-8b60-7311081b5679","isHidden":false,"type":"text"}]
+
+----
+
+Arttext: 
+
+----
+
+Uuid: Gobude8nO5Gjhbu4

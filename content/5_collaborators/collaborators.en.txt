@@ -1,0 +1,9 @@
+Title: Collaborators
+
+----
+
+Text: [{"content":{"text":"<p>The LungA School is supported by the Ministry of Education and the municipality of Múlaþing.</p>"},"id":"e153a17f-4273-4fff-a248-0d4af103cbb7","isHidden":false,"type":"text"},{"content":{"text":"<p>The LungA School also has an ongoing collaboration with:</p>"},"id":"f7d3bafd-54d0-4ecd-88e5-67bb1cbc70b0","isHidden":false,"type":"text"},{"content":{"text":"<p>Skaftell Bistro, Skaftfell Art Center, Austurland Food Coop, Hotel Aldan, Hafaldan Hostel, Menningarfélagið HEIMA, Airconditions, LungA Festival, Seyðisfjörður Community Radio, Sláturhúsið, Smyril-line, Höldur Car Rental, Kling &amp; Bang, Herðubreið Community and Culture Center</p>"},"id":"9bddcd07-0a40-4206-b6a0-abbf861c3088","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: 0dJNZ10aL5MxKOSD

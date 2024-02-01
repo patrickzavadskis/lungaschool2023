@@ -1,0 +1,29 @@
+title: Land
+
+columns: 
+  # Sidebar column
+  sidebar:
+    width: 1/3
+    sections:
+      details:
+        type: fields
+        fields:
+          sidebartext:
+            type: blocks
+            label: Sidebar
+            fieldsets:
+              - text
+              - custombutton 
+  # Main content column
+  main:
+    width: 2/3
+    sections:
+      content:
+        type: fields
+        fields:
+          subheader:
+            type: textarea
+            label: Subheader
+          landtext:
+            type: blocks
+            label: Content
