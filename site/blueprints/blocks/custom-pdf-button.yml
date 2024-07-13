@@ -1,0 +1,11 @@
+title: Custom PDF Button
+
+fields:
+  custompdfname:
+    label: Text
+    type: writer
+  custompdffile:
+    label: PDF
+    type: files
+    accept: 
+      - application/pdf

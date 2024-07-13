@@ -13,7 +13,7 @@ columns:
             label: Sidebar
             fieldsets:
               - text
-              - custombutton 
+              - custom-button 
   # Main content column
   main:
     width: 2/3
@@ -21,9 +21,13 @@ columns:
       content:
         type: fields
         fields:
-          subheader:
-            type: textarea
-            label: Subheader
           text:
             type: blocks
             label: Content
+          contacts:
+            label: Contacts
+            type: layout
+            layouts:
+              - "1/2, 1/2"
+            fieldsets:
+              - text

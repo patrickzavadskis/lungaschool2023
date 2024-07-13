@@ -8,12 +8,30 @@ columns:
       details:
         type: fields
         fields:
-          sidebartext:
-            type: blocks
-            label: Sidebar
-            fieldsets:
-              - text
-              - custombutton 
+          organizationanddocumentation:
+            label: Organization and documentation
+            type: structure
+            fields:
+              organizationanddocumentationtext:
+                label: Text
+                type: writer
+              organizationanddocumentationurl:
+                label: PDF
+                type: files
+                accept: 
+                  - application/pdf
+          financialstatements:
+            label: Financial Statements
+            type: structure
+            fields:
+              financialstatementstext:
+                label: Text
+                type: writer
+              financialstatementsurl:
+                label: PDF
+                type: files
+                accept: 
+                  - application/pdf
   # Main content column
   main:
     width: 2/3
@@ -21,9 +39,6 @@ columns:
       content:
         type: fields
         fields:
-          subheader:
-            type: textarea
-            label: Subheader
           text:
             type: blocks
             label: Content

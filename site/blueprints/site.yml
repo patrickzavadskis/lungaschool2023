@@ -1,10 +1,25 @@
 title: LungA School
 
 sections:
-  pages:
+  theprogrammes:
     type: pages
+    create: false
     headline: Pages
-
+    label: The Programmes
+    templates:
+      - art
+      - land
+      - general-information
+  theschool:
+    type: pages
+    create: false
+    headline: Pages
+    label: The School
+    templates:
+      - about
+      - manifesto
+      - contact
+      - collaborators
   links:
     type: fields
     headline: Links
@@ -18,4 +33,25 @@ sections:
             type: url
           text:
             label: Text
+            type: writer
+  popups:
+    type: fields
+    headline: Pop-Ups
+    fields:
+      popupList:
+        label: Pop-Ups
+        type: structure
+        fields:
+          popupname:
+            label: Big Text
+            type: writer
+          popupdescription:
+            label: Small Text
+            type: writer
+          popupurl:
+            label: URL
             type: text
+            help: The link has to start with "https://"
+  pagemedia:
+    type: files
+    label: Page Media

@@ -13,7 +13,8 @@ columns:
             label: Sidebar
             fieldsets:
               - text
-              - custombutton 
+              - custom-button 
+              - custom-pdf
   # Main content column
   main:
     width: 2/3

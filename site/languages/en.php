@@ -1,9 +1,15 @@
 <?php
 
 return [
-  'code' => 'en',
-  'default' => true,
-  'direction' => 'ltr',
-  'locale' => 'en_US',
-  'name' => 'English',
+    'code' => 'en',
+    'default' => true,
+    'direction' => 'ltr',
+    'locale' => [
+        'LC_ALL' => 'en_US'
+    ],
+    'name' => 'EN',
+    'translations' => [
+
+    ],
+    'url' => NULL
 ];

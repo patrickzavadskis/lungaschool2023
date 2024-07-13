@@ -1,0 +1,10 @@
+title: Custom Link
+
+fields:
+  customlinkaddress:
+    label: Custom Link Name
+    type: text
+  customlinkid:
+    label: Custom Link Target ID
+    type: text
+    help: This should correlate to the ID of the heading. Clicking the link will scroll the page to the heading with that ID.

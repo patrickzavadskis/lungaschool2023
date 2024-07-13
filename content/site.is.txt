@@ -24,8 +24,8 @@ Popuplist:
 - 
   popupname: '<p>Apply now to the ART Spring 2024 Programme</p>'
   popupdescription: '<p>*Open until 15. November 2023</p>'
-  popupurl: https://lungaschool.is/2024/en/art
+  popupurl: https://lungaschool.is/2024/is/art
 - 
   popupname: '<p>Apply now to the LAND Spring 2024 Programme</p>'
   popupdescription: '<p>*Open until 15. November 2023</p>'
-  popupurl: https://lungaschool.is/2024/en/land
+  popupurl: https://lungaschool.is/2024/is/land

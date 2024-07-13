@@ -26,7 +26,3 @@ Art-text:
 ----
 
 Headline: ART
-
-----
-
-Uuid: 7JnVyFV0Zcwk1JGV

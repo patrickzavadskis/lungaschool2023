@@ -2,7 +2,7 @@ Title: LAND
 
 ----
 
-Sidebartext: [{"content":{"text":"<p>LAND Spring Programme 2024</p>"},"id":"978bba74-8327-4475-8688-3d9afd7aa91b","isHidden":false,"type":"text"},{"content":{"text":"<p>Applications open:<br>11. October 2023</p>"},"id":"cd91c6ae-6180-4c30-8ec0-df92fce6c93d","isHidden":false,"type":"text"},{"content":{"text":"<p>Applications close:<br>15. November 2023</p>"},"id":"ae785f12-9346-4b05-a7fc-6db6a04c168e","isHidden":false,"type":"text"},{"content":{"text":"<p>Duration of program:<br>19. February–10. May 2024</p>"},"id":"5ad6e174-117a-4222-99cb-96296bc0847b","isHidden":false,"type":"text"},{"content":{"text":"<p>Where:<br>Seyðisfjörður, Iceland</p>"},"id":"7b0df931-6619-4bc1-be69-82fbaa2a070c","isHidden":false,"type":"text"},{"content":{"text":"<p>Cost:<br>600.000 ISK</p>"},"id":"2112fd13-d535-44e9-9ee0-da9299da8060","isHidden":false,"type":"text"},{"content":{"custombuttonlink":"https://www.apply-here.com","custombuttonname":"Apply here"},"id":"7f7f2691-c450-4877-a5f3-cae76ce32d41","isHidden":false,"type":"custom-button"}]
+Sidebartext: [{"content":{"text":"<p>LAND Spring Programme 2024</p>"},"id":"978bba74-8327-4475-8688-3d9afd7aa91b","isHidden":false,"type":"text"},{"content":{"text":"<p>Applications open:<br>11. October 2023</p>"},"id":"46580e7b-88de-4ca6-8e0a-0f636b070e0e","isHidden":false,"type":"text"},{"content":{"text":"<p>Applications close:<br>15. November 2023</p>"},"id":"2e7c29ec-cc1d-410a-813a-200bb22cacc8","isHidden":false,"type":"text"},{"content":{"text":"<p>Duration of program:<br>19. February–10. May 2024</p>"},"id":"24454caa-cb83-46da-9abc-6004656e9f7c","isHidden":false,"type":"text"},{"content":{"text":"<p>Where:<br>Seyðisfjörður, Iceland</p>"},"id":"98372b6c-08ad-4a92-afa9-6cec0f99fa70","isHidden":false,"type":"text"},{"content":{"text":"<p>Cost:<br>600.000 ISK</p>"},"id":"548c8b78-1205-464c-87af-8ac66af4c1b2","isHidden":false,"type":"text"},{"content":{"custombuttonlink":"https://www.apply-here.com","custombuttonname":"Apply here"},"id":"7f7f2691-c450-4877-a5f3-cae76ce32d41","isHidden":false,"type":"custom-button"}]
 
 ----
 
@@ -20,7 +20,3 @@ Landtext: [{"content":{"text":"<p>A new addition to the composition that is the 
 ----
 
 Arttext: 
-
-----
-
-Uuid: Gobude8nO5Gjhbu4
